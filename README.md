@@ -1,20 +1,19 @@
 # NexusForge
 
-NexusForge resmi GitHub repository'si.
+NexusForge resmi GitHub deposu.
 
 Website:
-https://nexusforgeko.com
+https://nexusforgeko.com/
 
 YouTube:
-(https://www.youtube.com/@NexusForgeKo)
+https://www.youtube.com/@NexusForgeKo
 
 Products:
 - Knight Online KOXP
-- Metin2 Bot
-- Knight Online OTP
+- OTP Account Services
 
 Support:
 https://nexusforgeko.com/iletisim
 
-Guides:
-https://nexusforgeko.com/rehber
+Official website:
+https://nexusforgeko.com/
