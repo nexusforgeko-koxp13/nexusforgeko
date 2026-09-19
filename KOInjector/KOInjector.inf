@@ -1,0 +1,41 @@
+[Version]
+Signature="$WINDOWS NT$"
+Class=System
+ClassGuid={4D36E97D-E325-11CE-BFC1-08002BE10318}
+Provider=%ProviderName%
+DriverVer = 07/26/2026,14.25.23.969
+CatalogFile=KOInjector.cat
+PnpLockdown=1
+
+[DestinationDirs]
+KOInjector.CopyFiles=13
+
+[DefaultInstall.NTamd64]
+CopyFiles=KOInjector.CopyFiles
+
+[DefaultInstall.NTamd64.Services]
+AddService=KOInjector,0,KOInjector.Service
+
+[KOInjector.Service]
+DisplayName=%ServiceName%
+Description=%ServiceDescription%
+ServiceType=1
+StartType=3
+ErrorControl=1
+ServiceBinary=%13%\KOInjector.sys
+
+[SourceDisksNames]
+1=%DiskName%,,,
+
+[SourceDisksFiles]
+KOInjector.sys=1
+
+[KOInjector.CopyFiles]
+KOInjector.sys
+
+[Strings]
+ProviderName="KOInjectorSuite"
+ServiceName="KOInjector Standard Kernel Driver"
+ServiceDescription="Standard SCM/INF-loaded KOInjector kernel driver"
+DiskName="KOInjector Driver Installation Media"
+
