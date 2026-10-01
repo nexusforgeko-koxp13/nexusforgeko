@@ -9,6 +9,7 @@ NexusForgeKO, [nexusforgeko.com](https://nexusforgeko.com/) üzerinde NexusForge
 | İlk kurulum ve klasör seçimi | [Kurulum kontrol listesi](docs/kurulum.md) |
 | Bakiye, lisans veya başlatma sorunu | [Sorun giderme](docs/sorun-giderme.md) |
 | Oyun güncellemesi sonrası kontrol | [Uyumluluk ve sürüm takibi](docs/uyumluluk.md) |
+| Ödeme öncesinde sunucu ve özellik teyidi | [Uyumluluk kontrol kaydı](docs/uyumluluk-kontrolu.md) |
 
 ## Knight Online KOXP
 
