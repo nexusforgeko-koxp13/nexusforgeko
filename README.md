@@ -11,6 +11,10 @@ NexusForgeKO, [nexusforgeko.com](https://nexusforgeko.com/) üzerinde NexusForge
 | Oyun güncellemesi sonrası kontrol | [Uyumluluk ve sürüm takibi](docs/uyumluluk.md) |
 | Ödeme öncesinde sunucu ve özellik teyidi | [Uyumluluk kontrol kaydı](docs/uyumluluk-kontrolu.md) |
 
+## Farm zamanı ölçüm aracı
+
+[Çevrimdışı Python aracı ve CSV şablonu](docs/farm-zaman-olcumu.md), yolda, NPC’de, bankada ve bakımda geçen süreyi kendi kayıtlarınızla hesaplar. Oyun bağlantısı veya ek paket gerektirmez. Örnek değerler temsildir; ürün performans testi değildir.
+
 ## Knight Online KOXP
 
 [NexusForgeKO Knight Online KOXP ürün sayfasında](https://nexusforgeko.com/urun/knight-online-farm-bot) güncel özellikleri, desteklenen sunucuları, uyumluluk bilgilerini ve lisans seçeneklerini inceleyebilirsiniz. Uyumluluk bilgisi oyun güncellemeleriyle değişebileceği için satın almadan veya kullanmaya başlamadan önce resmi ürün sayfasını kontrol edin.
