@@ -11,7 +11,7 @@ Bu belge NexusForgeKO’nun resmî kullanıcı dokümantasyonunun bir parçasıd
 
 ## 2. Gösterilen özellik ile beklenen sonucu ayırın
 
-[KOXP ürün sayfasındaki videoları](https://nexusforgeko.com/urun/knight-online-farm-bot) izlerken ayar ekranının mı, oyun içindeki işlemin mi gösterildiğini not edin. Tarih ve istemci uyuşmuyorsa destekten teyit isteyin. Başka bir özel sunucuda destek olduğunu varsaymayın.
+[KOXP ürün sayfasındaki videoları](https://nexusforgeko.com/knight-online-koxp) izlerken ayar ekranının mı, oyun içindeki işlemin mi gösterildiğini not edin. Tarih ve istemci uyuşmuyorsa destekten teyit isteyin. Başka bir özel sunucuda destek olduğunu varsaymayın.
 
 | Kontrol | Kaydedilecek bilgi | Sonuç |
 |---|---|---|
@@ -28,7 +28,7 @@ Doldurulabilir başlangıç şablonu: [uyumluluk-kontrolu.csv](templates/uyumlul
 
 Güncel tutarlar [kredi sayfasında](https://nexusforgeko.com/kredi) görünür. Ürün seçimiyle bakiye sayfasına geçtiğinizde lisans süresi, gereken yükleme ve kalan kredi açıklanır. Banka bildirimi ödeme yapmaz; kredi onayı da lisansı otomatik başlatmaz. Onay sonrası ürüne dönüp süreyi seçin.
 
-Krediye yeterli bakiyeniz varsa yeniden yükleme gerekmeyebilir. OTP hesap siparişi, KOXP yazılım lisansından ayrı üründür. Ayrıntılı örnek: [süre ve toplam bütçe rehberi](https://nexusforgeko.com/haberler/koxp-lisans-suresi-ve-butce-secimi).
+Krediye yeterli bakiyeniz varsa yeniden yükleme gerekmeyebilir. OTP hesap siparişi, KOXP yazılım lisansından ayrı üründür. Ayrıntılı örnek: [süre ve toplam bütçe rehberi](https://nexusforgeko.com/knight-online-koxp#lisans-suresi-secimi).
 
 ## 4. Destek talebini netleştirin
 

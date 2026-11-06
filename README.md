@@ -15,9 +15,15 @@ NexusForgeKO, [nexusforgeko.com](https://nexusforgeko.com/) üzerinde NexusForge
 
 [Çevrimdışı Python aracı ve CSV şablonu](docs/farm-zaman-olcumu.md), yolda, NPC’de, bankada ve bakımda geçen süreyi kendi kayıtlarınızla hesaplar. Oyun bağlantısı veya ek paket gerektirmez. Örnek değerler temsildir; ürün performans testi değildir.
 
+## Knight Online yeni server 2026 (Atlas, Oracle, Luna, Carnac)
+
+Yeni USKO sunucuları Atlas, Oracle, Luna ve Carnac 12 Kasım 2026, 16.00'da açılıyor. Hazırlık için [yeni server kontrol listesi](https://nexusforgeko-koxp13.github.io/yeni-server-2026/), OTP+ sorunları için [OTP+ ve telefon doğrulama rehberi](https://nexusforgeko-koxp13.github.io/otp-plus-telefon-dogrulama/). Dört sunucu için ön kayıtlı, OTP+ onaylı hesaplar: [Knight Online yeni server onaylı hesap](https://nexusforgeko.com/knight-online-yeni-server-hesap).
+
+Tüm rehberlerin web sürümü: [NexusForgeKO dokümantasyon sitesi](https://nexusforgeko-koxp13.github.io/).
+
 ## Knight Online KOXP
 
-[NexusForgeKO Knight Online KOXP ürün sayfasında](https://nexusforgeko.com/urun/knight-online-farm-bot) güncel özellikleri, desteklenen sunucuları, uyumluluk bilgilerini ve lisans seçeneklerini inceleyebilirsiniz. Uyumluluk bilgisi oyun güncellemeleriyle değişebileceği için satın almadan veya kullanmaya başlamadan önce resmi ürün sayfasını kontrol edin.
+[NexusForgeKO Knight Online KOXP ürün sayfasında](https://nexusforgeko.com/knight-online-koxp) güncel özellikleri, desteklenen sunucuları, uyumluluk bilgilerini ve lisans seçeneklerini inceleyebilirsiniz. Uyumluluk bilgisi oyun güncellemeleriyle değişebileceği için satın almadan veya kullanmaya başlamadan önce resmi ürün sayfasını kontrol edin.
 
 ## Kuruluma başlamadan önce
 

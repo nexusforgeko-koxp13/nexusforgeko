@@ -9,7 +9,7 @@ Knight Online oyun güncellemesinin tarihi ile NexusForgeKO uyumluluk bilgisinin
 | Bilgi | Nereden kontrol edilir? | Ne anlatır? |
 |---|---|---|
 | Oyun yaması veya bakım tarihi | [Resmi NTTGame duyuruları](https://www.nttgame.com/knight) | Oyun tarafındaki değişikliğin zamanı |
-| Ürün uyumluluk durumu | [NexusForgeKO KOXP ürün sayfası](https://nexusforgeko.com/urun/knight-online-farm-bot) | Sağlayıcının yayımladığı güncel uyumluluk açıklaması |
+| Ürün uyumluluk durumu | [NexusForgeKO KOXP ürün sayfası](https://nexusforgeko.com/knight-online-koxp) | Sağlayıcının yayımladığı güncel uyumluluk açıklaması |
 | Launcher ve kurulum durumu | Kullanılan launcher ile [kurulum rehberi](kurulum.md) | Yerel kurulumun hangi aşamada olduğu |
 
 NTTGame bağlantısı oyun duyurularına kaynak sağlar; NexusForgeKO için resmi onay veya ortaklık anlamına gelmez. Uyumluluk açıklamaları ürün sağlayıcısına aittir.

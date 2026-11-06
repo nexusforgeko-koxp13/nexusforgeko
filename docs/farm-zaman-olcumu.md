@@ -48,7 +48,7 @@ Formül: `kalan dakika = toplam dakika − kayıtlı diğer süreler`.
 
 **Kalan süre, otomatik olarak doğrulanmış aktif farm süresi değildir.** Kayda girmemiş bekleme varsa kalan bölümde görünür. O aralıklarda karakterin gerçekten çalıştığını siz gözlemlemelisiniz. Araç drop değeri, net gelir, sunucu uyumluluğu veya hesap yaptırım durumunu ölçmez.
 
-Ölçüm tasarımı ve tek değişiklikle rota karşılaştırması için [OtomasyonTR süre ölçüm rehberini](https://otomasyontr.tech/makale/knight-online-farm-rotasi-zaman-olcumu) okuyabilirsiniz. Güncel modüller ve videolar [NexusForgeKO ürün dokümantasyonundadır](https://nexusforgeko.com/urun/knight-online-farm-bot).
+Ölçüm tasarımı ve tek değişiklikle rota karşılaştırması için [OtomasyonTR süre ölçüm rehberini](https://otomasyontr.tech/makale/knight-online-farm-rotasi-zaman-olcumu) okuyabilirsiniz. Güncel modüller ve videolar [NexusForgeKO ürün dokümantasyonundadır](https://nexusforgeko.com/knight-online-koxp).
 
 ## Hesaplama kontrolü
 

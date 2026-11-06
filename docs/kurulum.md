@@ -6,7 +6,7 @@ Bu kontrol listesi ilk kuruluma hazırlık içindir. İndirme adresi, desteklene
 
 ## 1. Ortamı kontrol edin
 
-- [Ürün sayfasında](https://nexusforgeko.com/urun/knight-online-farm-bot) oynadığınız sunucunun ve sürümün desteklendiğini kontrol edin.
+- [Ürün sayfasında](https://nexusforgeko.com/knight-online-koxp) oynadığınız sunucunun ve sürümün desteklendiğini kontrol edin.
 - [Sistem gereksinimlerini](https://nexusforgeko.com/sistem-gereksinimleri) okuyun. Bir Windows sürümünün adı tek başına uyumluluğu doğrulamaz; build, sürücü ve cihaz politikaları da önemlidir.
 - Uyumluluk belirsizse satın alma veya aktivasyon öncesinde destek ekibine sorun.
 
